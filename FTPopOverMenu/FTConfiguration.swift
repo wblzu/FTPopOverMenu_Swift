@@ -25,7 +25,7 @@ public class FTConfiguration: NSObject {
     
     // cell configs
     public var textColor: UIColor = UIColor.white
-    public var textFont: UIFont = UIFont.systemFont(ofSize: 14)
+    public var textFont: UIFont = UIFont.systemFont(ofSize: 15)
     public var textAlignment: NSTextAlignment = NSTextAlignment.left
     public var ignoreImageOriginalColor = false
     public var menuIconSize: CGFloat = FT.DefaultMenuIconSize
