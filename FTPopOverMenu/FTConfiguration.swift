@@ -31,7 +31,7 @@ public class FTConfiguration: NSObject {
     public var menuIconSize: CGFloat = FT.DefaultMenuIconSize
     
     public var selectedTextColor: UIColor = UIColor.darkText
-    public var selectedCellBackgroundColor: UIColor = UIColor.red
+    public var selectedCellBackgroundColor: UIColor = UIColor.clear
     
 }
 
